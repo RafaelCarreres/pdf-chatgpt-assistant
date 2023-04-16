@@ -1,0 +1,5 @@
+PyPDF2==3.0.1
+spacy==3.5.1
+openai==0.27.2
+transformers==4.28.1
+tk==8.6.12
